@@ -13,6 +13,7 @@ const config: Config = {
         "cyan-blue": "var(--cyan-blue)",
         "light-purple": "var(--light-purple)",
         "dark-purple": "var(--dark-purple)",
+        "very-dark-purple": "var(--very-dark-purple)"
       },
     },
     container: {

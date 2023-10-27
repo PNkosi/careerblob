@@ -9,11 +9,16 @@
     --cyan-blue: #3FE1DD;
     --light-purple: #C4BEDE;
     --dark-purple: #372490;
+    --very-dark-purple: #0c0444;
   }
 
   h1 {
     @apply text-4xl md:text-6xl font-bold mb-8;
     line-height: 1.5;
+  }
+
+  h2 {
+    @apply text-2xl md:text-4xl font-bold mb-8;
   }
 
   p {
