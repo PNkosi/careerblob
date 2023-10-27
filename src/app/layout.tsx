@@ -4,6 +4,7 @@ import { Poppins } from "next/font/google";
 import clsx from "clsx";
 import "./globals.css";
 import Navbar from "./_components/Navbar";
+import Footer from "./_components/Footer";
 
 const poppins = Poppins({
   weight: ["400", "500", "700"],
@@ -26,6 +27,7 @@ export default function RootLayout({
         <ClerkProvider>
           <Navbar />
           {children}
+          <Footer />
         </ClerkProvider>
       </body>
     </html>
