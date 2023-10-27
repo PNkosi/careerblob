@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="516.167" height="376.698" viewBox="0 0 516.167 376.698">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f2fdd"/>
+      <stop offset="0.35" stop-color="#3f6add"/>
+      <stop offset="1" stop-color="#3fe1dd"/>
+    </linearGradient>
+  </defs>
+  <g id="Asset_3" data-name="Asset 3" transform="translate(3.807 1.828)">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="BACKGROUND_2" data-name="BACKGROUND 2">
+        <g id="Group_1474" data-name="Group 1474">
+          <path id="Path_2413" data-name="Path 2413" d="M432.43,17.29c-1.19-.11-2.35-.2-3.49-.27-9.92-.57-20.36,1.63-28.01,7.97-5.61,4.65-9.39,11.22-11.67,18.14-5.55,16.86-1.92,36.82,8.95,50.82,8.95,11.53,23.28,19,37.87,18.63,23.58-.6,37.53-19.42,40.24-41.2,1.49-11.96,1.07-25.48-5.52-35.98-7.59-12.08-24.5-16.8-38.37-18.12Z" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_252" data-name="Ellipse 252" cx="10.46" cy="10.46" r="10.46" transform="translate(145.38 147.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_253" data-name="Ellipse 253" cx="10.46" cy="10.46" r="10.46" transform="translate(344.38 246.1)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_254" data-name="Ellipse 254" cx="10.46" cy="10.46" r="10.46" transform="translate(387.83 351.95)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_255" data-name="Ellipse 255" cx="10.46" cy="10.46" r="10.46" transform="translate(32.35 322.72)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_2414" data-name="Path 2414" d="M134.63,107.77a5.24,5.24,0,1,1-5.24-5.24A5.239,5.239,0,0,1,134.63,107.77Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_256" data-name="Ellipse 256" cx="5.24" cy="5.24" r="5.24" transform="translate(342.68 49.09)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_2415" data-name="Path 2415" d="M150.93,297.63a5.24,5.24,0,1,1-5.24-5.24A5.239,5.239,0,0,1,150.93,297.63Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_257" data-name="Ellipse 257" cx="5.24" cy="5.24" r="5.24" transform="translate(499.88 88.29)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <path id="Path_2416" data-name="Path 2416" d="M409.24,215.48a5.24,5.24,0,1,1-5.24-5.24A5.239,5.239,0,0,1,409.24,215.48Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_258" data-name="Ellipse 258" cx="10.46" cy="10.46" r="10.46" transform="translate(-1.197 88.164) rotate(-22.35)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+          <circle id="Ellipse_259" data-name="Ellipse 259" cx="10.46" cy="10.46" r="10.46" transform="translate(331.005 21.117) rotate(-80.78)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
