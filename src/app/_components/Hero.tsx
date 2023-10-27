@@ -1,5 +1,6 @@
 import React from "react";
 import Image from 'next/image'
+import { BsArrowRight } from 'react-icons/bs'
 import Button from "./Button";
 
 
@@ -20,7 +21,7 @@ const Hero = (props: Props) => {
         Job hunting is a hustle on its own. We Provide the tools to ease the
         journey Craft Your Career Journey with
       </p>
-      <Button href="/resume-builder" className="bg-cyan-blue text-dark-purple my-6 mx-auto md:mx-0">Build Your Resume</Button>
+      <Button href="/resume-builder" className="flex items-center gap-2 bg-cyan-blue text-dark-purple my-6 mx-auto md:mx-0">Build Your Resume <BsArrowRight /> </Button>
     </header>
   );
 };
