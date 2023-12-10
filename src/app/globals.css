@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -10,6 +12,10 @@
     --light-purple: #C4BEDE;
     --dark-purple: #372490;
     --very-dark-purple: #0c0444;
+  }
+
+  html {
+    font-family: 'Poppins', sans-serif;
   }
 
   h1 {
